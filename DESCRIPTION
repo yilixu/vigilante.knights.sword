@@ -1,15 +1,13 @@
 Package: vigilante.knights.sword
-Title: What the Package Does (One Line, Title Case)
+Title: Supplemental Workbook or Reference Datasets for "vigilante.knights" (the Main Package)
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Authors@R: c(
+    person("Yili", "Xu", email = "yilixu@usc.edu", role = c("aut", "cre")),
+    person("Zarko", "Manojlovic", email = "zmanojlo@usc.edu", role = c("aut")))
+Description: The goal of this package is to provide supplemental workbook or reference datasets for the main package "vigilante.knights".
+URL: https://github.com/yilixu/vigilante.knights.sword
+BugReports: https://github.com/yilixu/vigilante.knights.sword/issues
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
