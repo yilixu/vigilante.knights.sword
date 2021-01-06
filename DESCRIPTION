@@ -5,7 +5,7 @@ Authors@R: c(
     person("Yili", "Xu", email = "yilixu@usc.edu", role = c("aut", "cre")),
     person("Zarko", "Manojlovic", email = "zmanojlo@usc.edu", role = c("aut")), 
     person("Ksenia", "Aaron", email = "kaaron@stanford.edu", role = c("aut")))
-Description: The goal of this package is to provide supplemental workbook or reference datasets for the main package "vigilante.knights".
+Description: The goal of vigilante.knights.sword is to provide supplemental workbook or reference datasets for the main package "vigilante.knights".
 URL: https://github.com/yilixu/vigilante.knights.sword
 BugReports: https://github.com/yilixu/vigilante.knights.sword/issues
 License: MIT + file LICENSE
