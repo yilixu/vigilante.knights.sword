@@ -3,13 +3,13 @@
 \docType{data}
 \name{GRCm38_ref}
 \alias{GRCm38_ref}
-\title{Information of 55,435 genes with ENSEMBL ID (build GRCm38/mm10).}
+\title{Information on 55,435 genes with ENSEMBL ID (build GRCm38/mm10).}
 \format{
 A list with 3 elements:
 \describe{
-\item{GRCm38G}{dataframe, information of genes}
-\item{chr_len_M}{named integer vector, information of chromosomes}
-\item{GRCm38T}{dataframe, information of transcripts}
+\item{GRCm38G}{dataframe, information on genes}
+\item{chr_len_M}{named integer vector, information on chromosomes}
+\item{GRCm38T}{dataframe, information on transcripts}
 }
 }
 \source{
@@ -19,6 +19,6 @@ A list with 3 elements:
 GRCm38_ref
 }
 \description{
-A reference dataset containing the information of 55,435 genes with ENSEMBL ID (build GRCm38/mm10) for vigilante.knights (the main package).
+A reference dataset containing the information on 55,435 genes with ENSEMBL ID (build GRCm38/mm10) for vigilante.knights (the main package).
 }
 \keyword{datasets}
