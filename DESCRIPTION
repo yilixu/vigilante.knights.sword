@@ -1,6 +1,6 @@
 Package: vigilante.knights.sword
 Title: Supplemental Workbook or Reference Datasets for "vigilante.knights" (the Main Package)
-Version: 0.0.0.9003
+Version: 0.0.0.9004
 Authors@R: c(
     person("Yili", "Xu", email = "yilixu@usc.edu", role = c("aut", "cre")),
     person("Zarko", "Manojlovic", email = "zmanojlo@usc.edu", role = c("aut")), 
